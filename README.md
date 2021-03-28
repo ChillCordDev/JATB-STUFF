@@ -1,5 +1,5 @@
 # JustATypicalBot
-Discord Best new All-In One Moderation Bot.
+Discord Best Moderation and Server Managment Bot.
 
 ## Features
 * Moderation commands (ban, kick, mute, softban, strike)
