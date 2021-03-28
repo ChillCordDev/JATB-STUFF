@@ -1,5 +1,7 @@
-# JustATypicalBot
-Discord Best Moderation and Server Managment Bot.
+# DisMod
+The future of Discord Server Moderation and Management with Auto-Mod, Logs and more.
+
+---
 
 ## Features
 * Moderation commands (ban, kick, mute, softban, strike)
