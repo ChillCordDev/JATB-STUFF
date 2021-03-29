@@ -37,7 +37,7 @@ To operate our service, we need the services of various third parties that may h
 
 # Your rights
 
-* We save all mentioned data starting from the moment JustATypicalBot is added to your server until you kick it from your server. 
+* We save all mentioned data starting from the moment DisMod is added to your server until you kick it from your server. 
 
 * You have the right to information about your personal data as well as for correction. Additionally, you can limit the processing or contradict it completely. Please contact us with sufficient verification at smdiscord2021@gmail.com. 
 
